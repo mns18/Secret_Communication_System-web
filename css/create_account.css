@@ -1,0 +1,26 @@
+#backgroundVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+
+  #create_space{
+    height: 400x;
+    width: 300px;
+    overflow: hidden;
+    
+  }
+  .card{
+    background-color: rgba(0, 0, 0, 0.499);
+    color: wheat;
+  }
+
+  .header .image img{
+    height: 60px;
+  }
+  .header{
+    max-width: 150px;
+    
+  }
